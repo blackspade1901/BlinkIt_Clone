@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935587370878",
+    "project_id": "pravinya-e9ce1",
+    "storage_bucket": "pravinya-e9ce1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935587370878:android:fcd7a52dde289ccb85c52f",
+        "android_client_info": {
+          "package_name": "com.example.blickit_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBrWVeV5YsSNbYcoXaMDlSmsgT756ePI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
